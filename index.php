@@ -439,7 +439,7 @@
 											Coding a website using different kinds of application was already difficult as it sounds because when I had my first coding about a website, I was in Junior High. We got to have a refresher when we were in Senior High. With all the different varieties of coding coming right at us, I forgot how to code using HTML. Now, using Github and Heroku was also challenging for me since I have no idea on how to use them both for my website. Even though I produced a simple code for my website, it was really stressful for a guy who forgot to code in HTML. After completing the code and launching the website, I was satisfied with it since it was simple and basic to look at. I think I could do better, but that was all I can do. I was confused on how to do the Github and Heroku at that time so with the help of my classmates, I got past the task
 										</p>
 										<br>
-											<h5 class = "color"; align="center"> Game </h5>
+											<h5 class = "color"; align="center">  Worst UI Experience </h5>
 											<img src="r.PNG" align="center">
 											<br>
 										<p>
